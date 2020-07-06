@@ -1,5 +1,7 @@
 # dropdown-menu
-
-Live Version: https://juliocfgdev.github.io/dropdown-menu/
-
-Dropdown menu with only HTML and CSSS
+## Descrição 
+Menus Dropdown utlizando apenas HTML e CSS
+### Tecnologias Usadas:
+* HTML5
+* CSS3 
+#### Versão Live: https://juliocfgdev.github.io/dropdown-menu/ 
